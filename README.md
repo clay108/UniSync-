@@ -1,6 +1,6 @@
-# College Management System
+# UniSync
 
-The College Management System is a comprehensive web-based application designed to efficiently manage various aspects of a college environment, facilitating smooth interactions between students, instructors, and administrative staff. This project is intended to streamline and enhance the administrative and academic processes within a college setting.
+The UniSync is a comprehensive web-based application designed to efficiently manage various aspects of a college environment, facilitating smooth interactions between students, instructors, and administrative staff. This project is intended to streamline and enhance the administrative and academic processes within a college setting.
 
 ## Key Features:
 
